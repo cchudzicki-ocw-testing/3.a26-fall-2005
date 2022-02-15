@@ -13,6 +13,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: brainstorming.pdf
-type: OCWFile
 uid: 8f4f0686-aded-e63d-315d-b209dce12bd4
 ---

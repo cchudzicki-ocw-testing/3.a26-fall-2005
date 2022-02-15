@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: glulam.pdf
-type: OCWFile
 uid: ec82f197-bb37-b492-e517-bca95aafb527
 ---

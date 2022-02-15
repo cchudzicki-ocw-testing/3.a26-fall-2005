@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: wp_tail_feathev1.pdf
-type: OCWFile
 uid: 47a38375-03f2-449d-b79f-7d54ec71e171
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: peckingv2edit.pdf
-type: OCWFile
 uid: f6b0b88d-393f-5891-0d01-116c295565c6
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: poster1_big.pdf
-type: OCWFile
 uid: 0aa79a86-1abb-ff70-d97d-761be9489a7e
 ---

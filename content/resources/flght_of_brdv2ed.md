@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: flght_of_brdv2ed.pdf
-type: OCWFile
 uid: 238cf5d8-509b-40b0-e79b-5a8bccd4af3d
 ---

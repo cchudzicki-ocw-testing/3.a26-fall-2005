@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: tube.pdf
-type: OCWFile
 uid: b426673a-21ce-4603-ccdd-22878daf034f
 ---

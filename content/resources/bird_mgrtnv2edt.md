@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: bird_mgrtnv2edt.pdf
-type: OCWFile
 uid: c6ed370c-f030-2be7-d77c-f3521e36353b
 ---

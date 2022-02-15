@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: bird_stcknstv2ed.pdf
-type: OCWFile
 uid: f1a945a6-f97a-4560-2c85-fe5d53e7e795
 ---

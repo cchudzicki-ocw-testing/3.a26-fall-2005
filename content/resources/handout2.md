@@ -11,6 +11,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: handout2.pdf
-type: OCWFile
 uid: 216accd9-9f65-4ec0-456d-ac098a0ac767
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: palm_trunks.pdf
-type: OCWFile
 uid: 45fce33f-bdbc-aaa8-0c0b-28162b65bdc3
 ---
