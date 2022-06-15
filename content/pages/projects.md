@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The projects section contains 14 project files discussing various topics
+  from current and previous version of the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
